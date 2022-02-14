@@ -1,13 +1,13 @@
-# Valentine Day and Pohela Falgun Python Turtle App 
+# Valentine's Day and Pohela Falgun Python Turtle App 
 ## By Jahidul Arafat
 
-# Setup your environment
+### A. Setup your environment
 ```bash
 pip3 install turtle               # will install turtle module
 sudo apt-get install python3-tk   # will install tkiner module inherited inside the turtle to display
 ```
 
-## Get the Source Code
+### B. Get the Source Code
 ```python
 # 🅹🅰🅷🅸🅳
 
